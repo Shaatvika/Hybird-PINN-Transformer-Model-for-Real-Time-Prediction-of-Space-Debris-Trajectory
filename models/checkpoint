@@ -1,0 +1,2 @@
+model_checkpoint_path: "debris_predictor_weights"
+all_model_checkpoint_paths: "debris_predictor_weights"
